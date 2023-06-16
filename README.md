@@ -7,7 +7,7 @@ By Grace Yoo
 
 ## Purpose
 
-The purpose of this project is to use unsupervised learning on a toy dataset of cryptocurrencies to examine if these cryptocurrencies are affected by 24-hour or 7-day price changes. Use K-Means Clustering and Principal Component Analysis (PCA)
+The purpose of this project is to use unsupervised learning on a toy dataset of cryptocurrencies to examine if these cryptocurrencies are affected by 24-hour or 7-day price changes. 
 
 ## Process
 
